@@ -30,3 +30,7 @@ def panel_line(fetch_first: bool = False) -> str: ...
 
 Returns a single line of text (optionally with unicode sparkline chars)
 that genmon renders and auto-refreshes.
+
+## Links
+
+Part of the [vhsgreed](https://vhsgreed.win) toolset: data, code, and methods in the open.
